@@ -1,0 +1,30 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore IDE settings (PyCharm's .idea folder)
+.idea/
+
+# Ignore environment variable files
+.env
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore data files or temporary files (if necessary)
+data/*.csv
+data/*.json
+
+# Ignore Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Ignore Google Sheets token or credentials (if applicable)
+credentials.json
+token.pickle
