@@ -1,4 +1,4 @@
-# E-commerce Price and Stock Updater
+# PriceStockUpdater
 
 This project automates the process of scraping product information from competitor websites, comparing prices, and updating your e-commerce platform accordingly.
 
@@ -13,8 +13,8 @@ This project automates the process of scraping product information from competit
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ecommerce-updater.git
-   cd ecommerce-updater
+   git clone https://github.com/javadmaaref/PriceStockUpdater.git
+   cd PriceStockUpdater
    ```
 
 2. Install required packages:
